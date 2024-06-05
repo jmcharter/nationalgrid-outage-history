@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-06-05T20:03:00.000+0100",
+  "lastUpdated": "2024-06-05T20:22:00.000+0100",
   "twitterEnabled": 0,
   "incidents": [
     {
@@ -8,14 +8,6 @@
         -5.157133
       ],
       "id": "INCD-31383-v",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        50.98352,
-        -2.745204
-      ],
-      "id": "INCD-23806-l",
       "region": "South West"
     },
     {
@@ -52,6 +44,14 @@
     },
     {
       "loc": [
+        50.98352,
+        -2.745204
+      ],
+      "id": "INCD-23806-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
         51.47052,
         -2.516829
       ],
@@ -65,14 +65,6 @@
       ],
       "id": "INCD-9591-t",
       "region": "South West"
-    },
-    {
-      "loc": [
-        52.3898,
-        -1.658994
-      ],
-      "id": "INCD-23896-p",
-      "region": "West Midlands"
     },
     {
       "loc": [
@@ -108,50 +100,10 @@
     },
     {
       "loc": [
-        52.47703,
-        -2.072158
-      ],
-      "id": "INCD-23875-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        53.09895,
-        -2.112507
-      ],
-      "id": "INCD-19811-m",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        51.89405,
-        -2.107721
-      ],
-      "id": "INCD-23920-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        52.30108,
-        -1.49735
-      ],
-      "id": "INCD-47115-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
         52.58955,
         -1.244967
       ],
       "id": "INCD-47007-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
-        52.28895,
-        -1.7743
-      ],
-      "id": "INCD-47061-h",
       "region": "East Midlands"
     },
     {
@@ -176,6 +128,14 @@
         -1.484528
       ],
       "id": "INCD-47114-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.28895,
+        -1.7743
+      ],
+      "id": "INCD-47061-h",
       "region": "East Midlands"
     }
   ],
