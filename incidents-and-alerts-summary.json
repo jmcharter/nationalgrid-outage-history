@@ -1,37 +1,21 @@
 {
-  "lastUpdated": "2024-07-12T21:24:00.000+0100",
+  "lastUpdated": "2024-07-12T21:42:00.000+0100",
   "twitterEnabled": 0,
   "incidents": [
+    {
+      "loc": [
+        50.38732,
+        -4.034411
+      ],
+      "id": "INCD-26449-l",
+      "region": "South West"
+    },
     {
       "loc": [
         50.38877,
         -3.921561
       ],
       "id": "INCD-26464-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        50.46719,
-        -3.51236
-      ],
-      "id": "INCD-10255-t",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        50.94723,
-        -2.850147
-      ],
-      "id": "INCD-26468-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        51.0499,
-        -4.17237
-      ],
-      "id": "INCD-26460-l",
       "region": "South West"
     },
     {
@@ -44,18 +28,10 @@
     },
     {
       "loc": [
-        50.70759,
-        -3.076777
+        50.94723,
+        -2.850147
       ],
-      "id": "INCD-26350-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        50.38732,
-        -4.034411
-      ],
-      "id": "INCD-26449-l",
+      "id": "INCD-26468-l",
       "region": "South West"
     },
     {
@@ -68,11 +44,35 @@
     },
     {
       "loc": [
+        50.70759,
+        -3.076777
+      ],
+      "id": "INCD-26350-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        51.0499,
+        -4.17237
+      ],
+      "id": "INCD-26460-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
         50.89875,
         -3.486497
       ],
       "id": "INCD-26435-l",
       "region": "South West"
+    },
+    {
+      "loc": [
+        51.94796,
+        -1.709317
+      ],
+      "id": "INCD-25972-p",
+      "region": "West Midlands"
     },
     {
       "loc": [
@@ -88,14 +88,6 @@
         -2.114777
       ],
       "id": "INCD-25956-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        51.94796,
-        -1.709317
-      ],
-      "id": "INCD-25972-p",
       "region": "West Midlands"
     },
     {
