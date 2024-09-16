@@ -1,7 +1,34 @@
 {
+  "lastUpdated": "2024-09-16T06:04:00.000+0100",
   "twitterEnabled": false,
+  "incidents": [
+    {
+      "loc": [
+        50.79858,
+        -3.190756
+      ],
+      "id": "INCD-30585-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        51.58244,
+        -4.093954
+      ],
+      "id": "INCD-19300-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
+        52.77094,
+        -0.291351
+      ],
+      "id": "INCD-57886-h",
+      "region": "East Midlands"
+    }
+  ],
   "updatePeriod": 30000,
-  "incidentStatus": 522,
+  "incidentStatus": 200,
   "alertSummary": [
     {
       "displayDate": 1724921581191,
