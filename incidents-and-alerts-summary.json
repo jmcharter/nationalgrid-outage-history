@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-10-07T12:42:00.000+0100",
+  "lastUpdated": "2024-10-07T13:05:00.000+0100",
   "twitterEnabled": false,
   "incidents": [
     {
@@ -20,14 +20,6 @@
     },
     {
       "loc": [
-        50.71073,
-        -3.561062
-      ],
-      "id": "INCD-33415-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
         50.20087,
         -5.199049
       ],
@@ -44,10 +36,10 @@
     },
     {
       "loc": [
-        50.7239,
-        -3.539312
+        50.71073,
+        -3.561062
       ],
-      "id": "INCD-33399-l",
+      "id": "INCD-33415-l",
       "region": "South West"
     },
     {
@@ -64,6 +56,14 @@
         -4.45935
       ],
       "id": "INCD-15278-e",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
+        51.56972,
+        -3.0106
+      ],
+      "id": "INCD-20424-f",
       "region": "South Wales"
     },
     {
@@ -100,18 +100,10 @@
     },
     {
       "loc": [
-        52.67545,
-        -2.368962
+        52.35721,
+        -2.375671
       ],
-      "id": "INCD-27122-m",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        52.0387,
-        -2.42523
-      ],
-      "id": "INCD-30853-p",
+      "id": "INCD-30909-p",
       "region": "West Midlands"
     },
     {
@@ -120,6 +112,14 @@
         -1.989471
       ],
       "id": "INCD-27137-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.67545,
+        -2.368962
+      ],
+      "id": "INCD-27122-m",
       "region": "West Midlands"
     },
     {
@@ -156,14 +156,6 @@
     },
     {
       "loc": [
-        52.43266,
-        -1.56581
-      ],
-      "id": "INCD-61149-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
         52.2625,
         -0.760537
       ],
@@ -176,6 +168,14 @@
         -1.079188
       ],
       "id": "INCD-61148-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.43266,
+        -1.56581
+      ],
+      "id": "INCD-61149-h",
       "region": "East Midlands"
     }
   ],
