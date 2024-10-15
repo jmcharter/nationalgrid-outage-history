@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2024-10-15T20:23:00.000+0100",
+  "lastUpdated": "2024-10-15T20:42:00.000+0100",
   "twitterEnabled": false,
   "incidents": [
+    {
+      "loc": [
+        50.11897,
+        -5.423214
+      ],
+      "id": "INCD-34087-l",
+      "region": "South West"
+    },
     {
       "loc": [
         50.96771,
@@ -16,14 +24,6 @@
         -3.764666
       ],
       "id": "INCD-34098-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        50.6777,
-        -4.126353
-      ],
-      "id": "INCD-34130-l",
       "region": "South West"
     },
     {
@@ -44,14 +44,6 @@
     },
     {
       "loc": [
-        51.46537,
-        -2.489967
-      ],
-      "id": "INCD-34140-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
         51.51579,
         -2.64778
       ],
@@ -60,35 +52,19 @@
     },
     {
       "loc": [
-        51.07279,
-        -4.059767
+        50.42861,
+        -4.156639
       ],
-      "id": "INCD-11594-t",
+      "id": "INCD-34126-l",
       "region": "South West"
     },
     {
       "loc": [
-        50.11897,
-        -5.423214
+        50.73691,
+        -2.761604
       ],
-      "id": "INCD-34087-l",
+      "id": "INCD-34145-l",
       "region": "South West"
-    },
-    {
-      "loc": [
-        50.03024,
-        -5.246413
-      ],
-      "id": "INCD-34138-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        52.17645,
-        -4.158929
-      ],
-      "id": "INCD-20841-f",
-      "region": "South Wales"
     },
     {
       "loc": [
@@ -132,6 +108,14 @@
     },
     {
       "loc": [
+        52.49251,
+        -3.000035
+      ],
+      "id": "INCD-27581-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
         52.59108,
         -2.049555
       ],
@@ -145,6 +129,14 @@
       ],
       "id": "INCD-27569-m",
       "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.90436,
+        -0.016371
+      ],
+      "id": "INCD-62204-h",
+      "region": "East Midlands"
     },
     {
       "loc": [
