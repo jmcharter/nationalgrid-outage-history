@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-10-20T14:06:00.000+0100",
+  "lastUpdated": "2024-10-20T14:26:00.000+0100",
   "twitterEnabled": false,
   "incidents": [
     {
@@ -8,6 +8,22 @@
         -3.840204
       ],
       "id": "INCD-34595-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        51.11479,
+        -4.150035
+      ],
+      "id": "INCD-34606-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        51.24923,
+        -2.462348
+      ],
+      "id": "INCD-34571-l",
       "region": "South West"
     },
     {
@@ -32,14 +48,6 @@
         -2.836866
       ],
       "id": "INCD-34568-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        51.24923,
-        -2.462348
-      ],
-      "id": "INCD-34571-l",
       "region": "South West"
     },
     {
@@ -84,14 +92,6 @@
     },
     {
       "loc": [
-        50.59198,
-        -3.679763
-      ],
-      "id": "INCD-34554-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
         50.48032,
         -3.768758
       ],
@@ -100,10 +100,10 @@
     },
     {
       "loc": [
-        51.11479,
-        -4.150035
+        50.59198,
+        -3.679763
       ],
-      "id": "INCD-34606-l",
+      "id": "INCD-34554-l",
       "region": "South West"
     },
     {
@@ -148,26 +148,10 @@
     },
     {
       "loc": [
-        51.68825,
-        -4.139823
-      ],
-      "id": "INCD-21090-f",
-      "region": "South Wales"
-    },
-    {
-      "loc": [
         51.52583,
         -3.164934
       ],
       "id": "INCD-21100-f",
-      "region": "South Wales"
-    },
-    {
-      "loc": [
-        51.60083,
-        -2.862473
-      ],
-      "id": "INCD-21121-f",
       "region": "South Wales"
     },
     {
@@ -180,10 +164,26 @@
     },
     {
       "loc": [
+        51.58694,
+        -4.04765
+      ],
+      "id": "INCD-21128-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
         51.51284,
         -3.590927
       ],
       "id": "INCD-21089-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
+        51.60083,
+        -2.862473
+      ],
+      "id": "INCD-21121-f",
       "region": "South Wales"
     },
     {
@@ -200,14 +200,6 @@
         -2.636949
       ],
       "id": "INCD-27783-m",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        52.13982,
-        -1.60475
-      ],
-      "id": "INCD-27802-m",
       "region": "West Midlands"
     },
     {
@@ -244,10 +236,10 @@
     },
     {
       "loc": [
-        52.05982,
-        -2.377633
+        52.13982,
+        -1.60475
       ],
-      "id": "INCD-31667-p",
+      "id": "INCD-27802-m",
       "region": "West Midlands"
     },
     {
