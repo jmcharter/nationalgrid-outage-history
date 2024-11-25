@@ -1,15 +1,7 @@
 {
-  "lastUpdated": "2024-11-25T16:45:00.000+0000",
+  "lastUpdated": "2024-11-25T17:03:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
-    {
-      "loc": [
-        50.61279,
-        -3.472742
-      ],
-      "id": "INCD-38212-l",
-      "region": "South West"
-    },
     {
       "loc": [
         50.79286,
@@ -40,14 +32,6 @@
         -2.68423
       ],
       "id": "INCD-12481-t",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        50.08364,
-        -5.31955
-      ],
-      "id": "INCD-34033-v",
       "region": "South West"
     },
     {
@@ -116,18 +100,18 @@
     },
     {
       "loc": [
+        51.29309,
+        -2.48463
+      ],
+      "id": "INCD-7672-u",
+      "region": "South West"
+    },
+    {
+      "loc": [
         51.66722,
         -3.914235
       ],
       "id": "INCD-23150-f",
-      "region": "South Wales"
-    },
-    {
-      "loc": [
-        51.59193,
-        -3.13895
-      ],
-      "id": "INCD-23152-f",
       "region": "South Wales"
     },
     {
@@ -148,6 +132,14 @@
     },
     {
       "loc": [
+        51.59193,
+        -3.13895
+      ],
+      "id": "INCD-23152-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
         51.70132,
         -3.931565
       ],
@@ -156,10 +148,10 @@
     },
     {
       "loc": [
-        52.4951,
-        -1.960011
+        52.50136,
+        -1.927125
       ],
-      "id": "INCD-33877-p",
+      "id": "INCD-33947-p",
       "region": "West Midlands"
     },
     {
@@ -192,14 +184,6 @@
         -1.933982
       ],
       "id": "INCD-28945-m",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        52.50136,
-        -1.927125
-      ],
-      "id": "INCD-33947-p",
       "region": "West Midlands"
     },
     {
@@ -256,6 +240,14 @@
         -1.169552
       ],
       "id": "INCD-66730-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.05917,
+        -0.784784
+      ],
+      "id": "INCD-66756-h",
       "region": "East Midlands"
     },
     {
@@ -319,7 +311,7 @@
   "incidentStatus": 200,
   "alertSummary": [
     {
-      "displayDate": 1732521600000,
+      "displayDate": 1732554000000,
       "id": 8,
       "flagAsNew": true
     }
