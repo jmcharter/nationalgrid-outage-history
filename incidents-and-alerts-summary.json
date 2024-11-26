@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2024-11-26T07:03:00.000+0000",
+  "lastUpdated": "2024-11-26T07:26:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
+    {
+      "loc": [
+        51.18203,
+        -4.149458
+      ],
+      "id": "INCD-38271-l",
+      "region": "South West"
+    },
     {
       "loc": [
         51.02805,
@@ -33,6 +41,14 @@
       ],
       "id": "INCD-23212-f",
       "region": "South Wales"
+    },
+    {
+      "loc": [
+        52.96297,
+        -2.303816
+      ],
+      "id": "INCD-34057-p",
+      "region": "West Midlands"
     },
     {
       "loc": [
@@ -76,18 +92,18 @@
     },
     {
       "loc": [
-        52.2391,
-        -0.909996
-      ],
-      "id": "INCD-66799-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
         52.6426,
         -1.068833
       ],
       "id": "INCD-66798-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.91146,
+        -1.171767
+      ],
+      "id": "INCD-66804-h",
       "region": "East Midlands"
     },
     {
@@ -104,14 +120,6 @@
         -1.51784
       ],
       "id": "INCD-66802-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
-        52.91146,
-        -1.171767
-      ],
-      "id": "INCD-66804-h",
       "region": "East Midlands"
     }
   ],
