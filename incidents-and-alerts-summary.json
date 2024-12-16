@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2024-12-16T03:50:00.000+0000",
+  "lastUpdated": "2024-12-16T04:16:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
+    {
+      "loc": [
+        50.449,
+        -4.451576
+      ],
+      "id": "INCD-42475-l",
+      "region": "South West"
+    },
     {
       "loc": [
         51.02363,
@@ -20,10 +28,10 @@
     },
     {
       "loc": [
-        50.449,
-        -4.451576
+        50.96771,
+        -2.773376
       ],
-      "id": "INCD-42475-l",
+      "id": "INCD-42487-l",
       "region": "South West"
     },
     {
@@ -44,14 +52,6 @@
     },
     {
       "loc": [
-        50.98063,
-        -3.533031
-      ],
-      "id": "INCD-13990-t",
-      "region": "South West"
-    },
-    {
-      "loc": [
         50.10084,
         -5.5532
       ],
@@ -68,27 +68,11 @@
     },
     {
       "loc": [
-        51.40588,
-        -2.309306
-      ],
-      "id": "INCD-42481-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
         51.3758,
         -2.35561
       ],
       "id": "INCD-42446-l",
       "region": "South West"
-    },
-    {
-      "loc": [
-        51.7161,
-        -4.954356
-      ],
-      "id": "INCD-27925-f",
-      "region": "South Wales"
     },
     {
       "loc": [
@@ -100,18 +84,10 @@
     },
     {
       "loc": [
-        51.779,
-        -3.999423
+        51.7161,
+        -4.954356
       ],
-      "id": "INCD-27928-f",
-      "region": "South Wales"
-    },
-    {
-      "loc": [
-        51.72889,
-        -5.018903
-      ],
-      "id": "INCD-27930-f",
+      "id": "INCD-27925-f",
       "region": "South Wales"
     },
     {
@@ -120,6 +96,14 @@
         -4.471922
       ],
       "id": "INCD-24735-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
+        51.72889,
+        -5.018903
+      ],
+      "id": "INCD-27930-f",
       "region": "South Wales"
     },
     {
@@ -136,6 +120,14 @@
         -4.119705
       ],
       "id": "INCD-27745-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
+        51.779,
+        -3.999423
+      ],
+      "id": "INCD-27928-f",
       "region": "South Wales"
     },
     {
