@@ -1,21 +1,13 @@
 {
-  "lastUpdated": "2024-12-30T14:58:00.000+0000",
+  "lastUpdated": "2024-12-30T15:16:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
     {
       "loc": [
-        50.54419,
-        -4.904587
+        51.12168,
+        -3.230281
       ],
-      "id": "INCD-35635-v",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        50.39528,
-        -3.513812
-      ],
-      "id": "INCD-44440-l",
+      "id": "INCD-44429-l",
       "region": "South West"
     },
     {
@@ -28,6 +20,14 @@
     },
     {
       "loc": [
+        50.1918,
+        -5.491246
+      ],
+      "id": "INCD-44441-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
         50.61774,
         -4.482745
       ],
@@ -36,18 +36,18 @@
     },
     {
       "loc": [
-        51.12168,
-        -3.230281
+        50.54844,
+        -3.68711
       ],
-      "id": "INCD-44429-l",
+      "id": "INCD-44438-l",
       "region": "South West"
     },
     {
       "loc": [
-        50.1918,
-        -5.491246
+        50.54419,
+        -4.904587
       ],
-      "id": "INCD-44441-l",
+      "id": "INCD-35635-v",
       "region": "South West"
     },
     {
@@ -143,7 +143,7 @@
   "incidentStatus": 200,
   "alertSummary": [
     {
-      "displayDate": 1735570747622,
+      "displayDate": 1735570873387,
       "id": 7,
       "flagAsNew": true
     }
