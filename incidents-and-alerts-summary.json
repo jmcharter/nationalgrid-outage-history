@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-01-01T18:36:00.000+0000",
+  "lastUpdated": "2025-01-01T18:57:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
     {
@@ -44,6 +44,14 @@
     },
     {
       "loc": [
+        50.449,
+        -4.451576
+      ],
+      "id": "INCD-44714-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
         50.38877,
         -4.064946
       ],
@@ -60,6 +68,14 @@
     },
     {
       "loc": [
+        51.64045,
+        -3.97774
+      ],
+      "id": "INCD-29198-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
         52.05014,
         -4.659943
       ],
@@ -68,18 +84,18 @@
     },
     {
       "loc": [
-        52.54273,
-        -2.485971
-      ],
-      "id": "INCD-36829-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
         52.89595,
         -2.013039
       ],
       "id": "INCD-32738-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.54273,
+        -2.485971
+      ],
+      "id": "INCD-36829-p",
       "region": "West Midlands"
     },
     {
@@ -92,10 +108,10 @@
     },
     {
       "loc": [
-        52.7373,
-        -2.73069
+        52.2161,
+        -1.856837
       ],
-      "id": "INCD-32745-m",
+      "id": "INCD-36826-p",
       "region": "West Midlands"
     },
     {
@@ -104,14 +120,6 @@
         -2.110881
       ],
       "id": "INCD-36831-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        52.2161,
-        -1.856837
-      ],
-      "id": "INCD-36826-p",
       "region": "West Midlands"
     },
     {
@@ -148,18 +156,18 @@
     },
     {
       "loc": [
-        52.70087,
-        -1.069606
-      ],
-      "id": "INCD-71141-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
         52.16506,
         -1.392698
       ],
       "id": "INCD-71170-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.70087,
+        -1.069606
+      ],
+      "id": "INCD-71141-h",
       "region": "East Midlands"
     }
   ],
