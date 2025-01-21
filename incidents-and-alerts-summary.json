@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2025-01-21T15:39:00.000+0000",
+  "lastUpdated": "2025-01-21T16:00:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
-    {
-      "loc": [
-        50.4131,
-        -5.087871
-      ],
-      "id": "INCD-35884-v",
-      "region": "South West"
-    },
     {
       "loc": [
         51.36075,
         -2.901316
       ],
       "id": "INCD-46571-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        50.4131,
+        -5.087871
+      ],
+      "id": "INCD-35884-v",
       "region": "South West"
     },
     {
@@ -36,11 +36,11 @@
     },
     {
       "loc": [
-        52.43073,
-        -1.813522
+        51.6203,
+        -3.798237
       ],
-      "id": "INCD-33777-m",
-      "region": "West Midlands"
+      "id": "INCD-30421-f",
+      "region": "South Wales"
     },
     {
       "loc": [
@@ -68,18 +68,18 @@
     },
     {
       "loc": [
-        52.3797,
-        -1.747657
-      ],
-      "id": "INCD-38085-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
         51.62623,
         -2.401222
       ],
       "id": "INCD-38091-p",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.3797,
+        -1.747657
+      ],
+      "id": "INCD-38085-p",
       "region": "West Midlands"
     },
     {
@@ -108,42 +108,10 @@
     },
     {
       "loc": [
-        52.59272,
-        -1.074644
-      ],
-      "id": "INCD-73626-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
-        52.4242,
-        -1.434836
-      ],
-      "id": "INCD-73616-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
-        52.76585,
-        -1.528344
-      ],
-      "id": "INCD-73670-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
         52.38431,
         -1.498567
       ],
       "id": "INCD-73688-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
-        52.62484,
-        -1.06175
-      ],
-      "id": "INCD-73649-h",
       "region": "East Midlands"
     }
   ],
