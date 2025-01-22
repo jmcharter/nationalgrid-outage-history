@@ -1,15 +1,7 @@
 {
-  "lastUpdated": "2025-01-22T15:23:00.000+0000",
+  "lastUpdated": "2025-01-22T15:40:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
-    {
-      "loc": [
-        51.05453,
-        -4.048368
-      ],
-      "id": "INCD-8324-u",
-      "region": "South West"
-    },
     {
       "loc": [
         51.05229,
@@ -40,6 +32,22 @@
         -4.053455
       ],
       "id": "INCD-46657-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        51.05453,
+        -4.048368
+      ],
+      "id": "INCD-8324-u",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        50.70063,
+        -3.525579
+      ],
+      "id": "INCD-46651-l",
       "region": "South West"
     },
     {
@@ -76,18 +84,26 @@
     },
     {
       "loc": [
-        52.16707,
-        -1.855533
+        53.02909,
+        -2.242745
       ],
-      "id": "INCD-38127-p",
+      "id": "INCD-33860-m",
       "region": "West Midlands"
     },
     {
       "loc": [
-        52.68612,
-        -2.046734
+        52.2145,
+        -1.764547
       ],
-      "id": "INCD-33826-m",
+      "id": "INCD-38140-p",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.16707,
+        -1.855533
+      ],
+      "id": "INCD-38127-p",
       "region": "West Midlands"
     },
     {
@@ -104,14 +120,6 @@
         -2.414543
       ],
       "id": "INCD-38142-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        52.2145,
-        -1.764547
-      ],
-      "id": "INCD-38140-p",
       "region": "West Midlands"
     },
     {
@@ -220,6 +228,14 @@
     },
     {
       "loc": [
+        52.29764,
+        -1.51927
+      ],
+      "id": "INCD-73831-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
         52.39498,
         -1.250465
       ],
@@ -239,9 +255,9 @@
   "incidentStatus": 200,
   "alertSummary": [
     {
-      "displayDate": 1724921581191,
-      "id": 5,
-      "flagAsNew": false
+      "displayDate": 1737559800000,
+      "id": 8,
+      "flagAsNew": true
     }
   ]
 }
