@@ -1,13 +1,29 @@
 {
-  "lastUpdated": "2025-01-23T08:01:00.000+0000",
+  "lastUpdated": "2025-01-23T08:25:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
+    {
+      "loc": [
+        50.36415,
+        -4.085292
+      ],
+      "id": "INCD-46704-l",
+      "region": "South West"
+    },
     {
       "loc": [
         51.12969,
         -2.997504
       ],
       "id": "INCD-46695-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        51.12418,
+        -3.936908
+      ],
+      "id": "INCD-46693-l",
       "region": "South West"
     },
     {
@@ -23,7 +39,7 @@
         51.12418,
         -3.936908
       ],
-      "id": "INCD-46693-l",
+      "id": "INCD-46703-l",
       "region": "South West"
     },
     {
@@ -36,26 +52,18 @@
     },
     {
       "loc": [
-        51.83035,
-        -4.596844
-      ],
-      "id": "INCD-30475-f",
-      "region": "South Wales"
-    },
-    {
-      "loc": [
-        52.03575,
-        -4.471922
-      ],
-      "id": "INCD-30477-f",
-      "region": "South Wales"
-    },
-    {
-      "loc": [
         51.8012,
         -4.079581
       ],
       "id": "INCD-30474-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
+        51.83035,
+        -4.596844
+      ],
+      "id": "INCD-30475-f",
       "region": "South Wales"
     },
     {
