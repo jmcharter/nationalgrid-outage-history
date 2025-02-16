@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-02-16T06:40:00.000+0000",
+  "lastUpdated": "2025-02-16T07:00:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
     {
@@ -12,11 +12,27 @@
     },
     {
       "loc": [
+        51.79261,
+        -3.209439
+      ],
+      "id": "INCD-31812-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
         52.3517,
         -2.044514
       ],
       "id": "INCD-39800-p",
       "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.88826,
+        -1.451042
+      ],
+      "id": "INCD-76583-h",
+      "region": "East Midlands"
     }
   ],
   "updatePeriod": 30000,
