@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-02-20T13:26:00.000+0000",
+  "lastUpdated": "2025-02-20T13:39:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
     {
@@ -16,14 +16,6 @@
         -2.965694
       ],
       "id": "INCD-50014-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        50.11103,
-        -5.268874
-      ],
-      "id": "INCD-50051-l",
       "region": "South West"
     },
     {
@@ -52,11 +44,19 @@
     },
     {
       "loc": [
-        50.0373,
-        -5.20993
+        50.11103,
+        -5.268874
       ],
-      "id": "INCD-49999-l",
+      "id": "INCD-50051-l",
       "region": "South West"
+    },
+    {
+      "loc": [
+        51.58429,
+        -3.012136
+      ],
+      "id": "INCD-19801-e",
+      "region": "South Wales"
     },
     {
       "loc": [
@@ -84,14 +84,6 @@
     },
     {
       "loc": [
-        52.70205,
-        -2.559706
-      ],
-      "id": "INCD-35585-m",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
         52.20373,
         -3.030324
       ],
@@ -112,14 +104,6 @@
         -2.070278
       ],
       "id": "INCD-40048-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        52.43289,
-        -1.912058
-      ],
-      "id": "INCD-35580-m",
       "region": "West Midlands"
     },
     {
@@ -156,10 +140,26 @@
     },
     {
       "loc": [
+        52.43289,
+        -1.912058
+      ],
+      "id": "INCD-35580-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
         52.45983,
         -2.122582
       ],
       "id": "INCD-35591-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.70205,
+        -2.559706
+      ],
+      "id": "INCD-35585-m",
       "region": "West Midlands"
     },
     {
@@ -169,6 +169,14 @@
       ],
       "id": "INCD-40049-p",
       "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.25523,
+        -1.483146
+      ],
+      "id": "INCD-77102-h",
+      "region": "East Midlands"
     },
     {
       "loc": [
