@@ -1,15 +1,7 @@
 {
-  "lastUpdated": "2025-03-28T14:41:00.000+0000",
+  "lastUpdated": "2025-03-28T15:01:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
-    {
-      "loc": [
-        50.63333,
-        -3.31962
-      ],
-      "id": "INCD-52978-l",
-      "region": "South West"
-    },
     {
       "loc": [
         50.90757,
@@ -28,19 +20,27 @@
     },
     {
       "loc": [
+        50.63333,
+        -3.31962
+      ],
+      "id": "INCD-52978-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        51.66799,
+        -3.201981
+      ],
+      "id": "INCD-33434-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
         52.1043,
         -3.628643
       ],
       "id": "INCD-20878-e",
       "region": "South Wales"
-    },
-    {
-      "loc": [
-        52.47131,
-        -2.074063
-      ],
-      "id": "INCD-41921-p",
-      "region": "West Midlands"
     },
     {
       "loc": [
@@ -76,10 +76,26 @@
     },
     {
       "loc": [
-        52.44603,
-        -2.118586
+        51.78758,
+        -2.61864
       ],
-      "id": "INCD-41951-p",
+      "id": "INCD-41959-p",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.55187,
+        -1.98341
+      ],
+      "id": "INCD-41962-p",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.55198,
+        -2.636949
+      ],
+      "id": "INCD-41967-p",
       "region": "West Midlands"
     },
     {
@@ -108,35 +124,11 @@
     },
     {
       "loc": [
-        51.78758,
-        -2.61864
-      ],
-      "id": "INCD-41959-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        52.55187,
-        -1.98341
-      ],
-      "id": "INCD-41962-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
         52.45401,
         -1.96405
       ],
       "id": "INCD-41922-p",
       "region": "West Midlands"
-    },
-    {
-      "loc": [
-        52.8737,
-        -1.650786
-      ],
-      "id": "INCD-81085-h",
-      "region": "East Midlands"
     },
     {
       "loc": [
