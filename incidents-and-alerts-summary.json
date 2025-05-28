@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-28T16:41:00.000+0100",
+  "lastUpdated": "2025-05-28T17:01:00.000+0100",
   "twitterEnabled": false,
   "incidents": [
     {
@@ -20,18 +20,18 @@
     },
     {
       "loc": [
-        50.77993,
-        -2.99523
+        51.46166,
+        -2.481089
       ],
-      "id": "INCD-58107-l",
+      "id": "INCD-57877-l",
       "region": "South West"
     },
     {
       "loc": [
-        51.026,
-        -3.0383
+        50.77993,
+        -2.99523
       ],
-      "id": "INCD-58084-l",
+      "id": "INCD-58107-l",
       "region": "South West"
     },
     {
@@ -57,6 +57,14 @@
       ],
       "id": "INCD-58080-l",
       "region": "South West"
+    },
+    {
+      "loc": [
+        51.68375,
+        -3.92771
+      ],
+      "id": "INCD-22301-e",
+      "region": "South Wales"
     },
     {
       "loc": [
@@ -88,14 +96,6 @@
         -1.74992
       ],
       "id": "INCD-45206-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        53.10567,
-        -2.170105
-      ],
-      "id": "INCD-45221-p",
       "region": "West Midlands"
     },
     {
@@ -132,10 +132,18 @@
     },
     {
       "loc": [
-        52.6158,
-        -2.040647
+        53.10567,
+        -2.170105
       ],
-      "id": "INCD-40419-m",
+      "id": "INCD-45221-p",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.57239,
+        -2.094492
+      ],
+      "id": "INCD-40456-m",
       "region": "West Midlands"
     },
     {
@@ -148,10 +156,26 @@
     },
     {
       "loc": [
+        52.6158,
+        -2.040647
+      ],
+      "id": "INCD-40419-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
         51.862,
         -2.24656
       ],
       "id": "INCD-45248-p",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.39086,
+        -2.237786
+      ],
+      "id": "INCD-45267-p",
       "region": "West Midlands"
     },
     {
@@ -184,6 +208,14 @@
         -1.683546
       ],
       "id": "INCD-87260-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
+        53.20314,
+        -1.227463
+      ],
+      "id": "INCD-87262-h",
       "region": "East Midlands"
     },
     {
@@ -228,22 +260,6 @@
     },
     {
       "loc": [
-        52.64111,
-        -1.091993
-      ],
-      "id": "INCD-87263-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
-        52.2343,
-        -1.080781
-      ],
-      "id": "INCD-87272-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
         52.90802,
         -1.076863
       ],
@@ -264,6 +280,14 @@
         -1.072619
       ],
       "id": "INCD-87231-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.2343,
+        -1.080781
+      ],
+      "id": "INCD-87272-h",
       "region": "East Midlands"
     }
   ],
