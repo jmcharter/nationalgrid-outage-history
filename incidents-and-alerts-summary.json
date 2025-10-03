@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2025-10-03T12:39:00.000+0100",
+  "lastUpdated": "2025-10-03T13:04:00.000+0100",
   "twitterEnabled": false,
   "incidents": [
+    {
+      "loc": [
+        50.1389,
+        -5.525506
+      ],
+      "id": "INCD-70573-l",
+      "region": "South West"
+    },
     {
       "loc": [
         50.26889,
@@ -52,6 +60,14 @@
     },
     {
       "loc": [
+        50.37095,
+        -4.144698
+      ],
+      "id": "INCD-70575-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
         51.08375,
         -3.246964
       ],
@@ -68,10 +84,26 @@
     },
     {
       "loc": [
+        51.65092,
+        -3.891026
+      ],
+      "id": "INCD-42549-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
         51.5133,
         -3.219576
       ],
       "id": "INCD-42540-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
+        51.65567,
+        -2.73432
+      ],
+      "id": "INCD-42536-f",
       "region": "South Wales"
     },
     {
@@ -84,18 +116,18 @@
     },
     {
       "loc": [
-        52.10342,
-        -2.326609
+        52.26139,
+        -2.992935
       ],
-      "id": "INCD-52865-p",
+      "id": "INCD-52916-p",
       "region": "West Midlands"
     },
     {
       "loc": [
-        51.74011,
-        -2.238347
+        52.10342,
+        -2.326609
       ],
-      "id": "INCD-48547-m",
+      "id": "INCD-52865-p",
       "region": "West Midlands"
     },
     {
@@ -116,10 +148,10 @@
     },
     {
       "loc": [
-        52.69429,
-        -2.047363
+        51.74011,
+        -2.238347
       ],
-      "id": "INCD-48524-m",
+      "id": "INCD-48547-m",
       "region": "West Midlands"
     },
     {
@@ -193,13 +225,21 @@
       ],
       "id": "INCD-101446-h",
       "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.59273,
+        -1.148839
+      ],
+      "id": "INCD-101484-h",
+      "region": "East Midlands"
     }
   ],
   "updatePeriod": 30000,
   "incidentStatus": 200,
   "alertSummary": [
     {
-      "displayDate": 1759404600000,
+      "displayDate": 1759491000000,
       "id": 7,
       "flagAsNew": true
     }
