@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-05T14:39:00.000+0100",
+  "lastUpdated": "2025-10-05T15:00:00.000+0100",
   "twitterEnabled": false,
   "incidents": [
     {
@@ -24,6 +24,14 @@
         -2.65028
       ],
       "id": "INCD-70861-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        51.14794,
+        -3.125669
+      ],
+      "id": "INCD-71015-l",
       "region": "South West"
     },
     {
@@ -76,6 +84,14 @@
     },
     {
       "loc": [
+        52.06351,
+        -1.347646
+      ],
+      "id": "INCD-48902-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
         52.47862,
         -2.069202
       ],
@@ -84,10 +100,26 @@
     },
     {
       "loc": [
+        52.60568,
+        -3.049348
+      ],
+      "id": "INCD-48901-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
         52.3103,
         -2.262875
       ],
       "id": "INCD-53034-p",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.51921,
+        -1.683459
+      ],
+      "id": "INCD-48900-m",
       "region": "West Midlands"
     },
     {
@@ -108,18 +140,18 @@
     },
     {
       "loc": [
-        52.16917,
-        -2.842543
-      ],
-      "id": "INCD-53087-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
         51.94489,
         -2.132444
       ],
       "id": "INCD-48895-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.16917,
+        -2.842543
+      ],
+      "id": "INCD-53087-p",
       "region": "West Midlands"
     },
     {
@@ -140,18 +172,18 @@
     },
     {
       "loc": [
-        52.43427,
-        -1.471347
-      ],
-      "id": "INCD-101767-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
         53.0308,
         -1.495473
       ],
       "id": "INCD-101748-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.43427,
+        -1.471347
+      ],
+      "id": "INCD-101767-h",
       "region": "East Midlands"
     },
     {
@@ -167,9 +199,9 @@
   "incidentStatus": 200,
   "alertSummary": [
     {
-      "displayDate": 1759491000000,
-      "id": 7,
-      "flagAsNew": true
+      "displayDate": 1759671990139,
+      "id": 5,
+      "flagAsNew": false
     }
   ]
 }
