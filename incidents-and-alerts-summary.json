@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2025-11-01T10:40:00.000+0000",
+  "lastUpdated": "2025-11-01T10:59:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
+    {
+      "loc": [
+        51.05519,
+        -2.72345
+      ],
+      "id": "INCD-73548-l",
+      "region": "South West"
+    },
     {
       "loc": [
         50.51944,
@@ -36,11 +44,11 @@
     },
     {
       "loc": [
-        51.05519,
-        -2.72345
+        51.6003,
+        -2.967256
       ],
-      "id": "INCD-73548-l",
-      "region": "South West"
+      "id": "INCD-44120-f",
+      "region": "South Wales"
     },
     {
       "loc": [
@@ -52,18 +60,18 @@
     },
     {
       "loc": [
-        51.6003,
-        -2.967256
+        52.3006,
+        -2.42184
       ],
-      "id": "INCD-44120-f",
-      "region": "South Wales"
+      "id": "INCD-55038-p",
+      "region": "West Midlands"
     },
     {
       "loc": [
-        52.18755,
-        -2.518026
+        52.45915,
+        -2.11713
       ],
-      "id": "INCD-55026-p",
+      "id": "INCD-55017-p",
       "region": "West Midlands"
     },
     {
@@ -84,14 +92,6 @@
     },
     {
       "loc": [
-        52.45915,
-        -2.11713
-      ],
-      "id": "INCD-55017-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
         52.29597,
         -1.93887
       ],
@@ -100,18 +100,18 @@
     },
     {
       "loc": [
+        52.18755,
+        -2.518026
+      ],
+      "id": "INCD-55026-p",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
         52.91969,
         -1.551542
       ],
       "id": "INCD-4929-n",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
-        52.65895,
-        -0.469616
-      ],
-      "id": "INCD-5009-n",
       "region": "East Midlands"
     },
     {
@@ -136,6 +136,14 @@
         -1.365833
       ],
       "id": "INCD-5007-n",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.65895,
+        -0.469616
+      ],
+      "id": "INCD-5009-n",
       "region": "East Midlands"
     },
     {
