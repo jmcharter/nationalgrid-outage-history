@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-17T09:03:00.000+0000",
+  "lastUpdated": "2025-11-17T09:27:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
     {
@@ -28,18 +28,18 @@
     },
     {
       "loc": [
-        51.14233,
-        -2.712165
-      ],
-      "id": "INCD-74848-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
         51.4391,
         -2.547795
       ],
       "id": "INCD-74855-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        51.14233,
+        -2.712165
+      ],
+      "id": "INCD-74848-l",
       "region": "South West"
     },
     {
@@ -100,26 +100,18 @@
     },
     {
       "loc": [
-        52.84141,
-        -2.074797
-      ],
-      "id": "INCD-51809-m",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        51.7022,
-        -2.289531
-      ],
-      "id": "INCD-56142-p",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
         51.57892,
         -2.316094
       ],
       "id": "INCD-56138-p",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.84141,
+        -2.074797
+      ],
+      "id": "INCD-51809-m",
       "region": "West Midlands"
     },
     {
@@ -132,18 +124,18 @@
     },
     {
       "loc": [
-        52.7647,
-        -1.296065
+        52.76995,
+        -1.600585
       ],
-      "id": "INCD-106412-h",
+      "id": "INCD-106601-h",
       "region": "East Midlands"
     },
     {
       "loc": [
-        52.72498,
-        -1.374114
+        53.32427,
+        -1.16749
       ],
-      "id": "INCD-106594-h",
+      "id": "INCD-106605-h",
       "region": "East Midlands"
     },
     {
@@ -156,10 +148,10 @@
     },
     {
       "loc": [
-        52.9536,
-        -1.154365
+        52.90105,
+        -1.29695
       ],
-      "id": "INCD-106581-h",
+      "id": "INCD-106589-h",
       "region": "East Midlands"
     },
     {
@@ -183,9 +175,9 @@
   "incidentStatus": 200,
   "alertSummary": [
     {
-      "displayDate": 1763044200000,
-      "id": 7,
-      "flagAsNew": true
+      "displayDate": 1759671990139,
+      "id": 5,
+      "flagAsNew": false
     }
   ]
 }
