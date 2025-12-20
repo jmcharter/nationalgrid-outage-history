@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2025-12-20T19:40:00.000+0000",
+  "lastUpdated": "2025-12-20T20:02:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
+    {
+      "loc": [
+        50.73896,
+        -3.35157
+      ],
+      "id": "INCD-78093-l",
+      "region": "South West"
+    },
     {
       "loc": [
         50.21087,
@@ -116,18 +124,18 @@
     },
     {
       "loc": [
-        52.917,
-        -1.198654
-      ],
-      "id": "INCD-110699-h",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
         53.14231,
         -1.224204
       ],
       "id": "INCD-110686-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.917,
+        -1.198654
+      ],
+      "id": "INCD-110699-h",
       "region": "East Midlands"
     }
   ],
