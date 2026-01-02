@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T11:25:00.000+0000",
+  "lastUpdated": "2026-01-02T11:41:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
     {
@@ -89,15 +89,31 @@
       ],
       "id": "INCD-111700-h",
       "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.64512,
+        -1.720417
+      ],
+      "id": "INCD-111715-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.9607,
+        -1.117991
+      ],
+      "id": "INCD-111716-h",
+      "region": "East Midlands"
     }
   ],
   "updatePeriod": 30000,
   "incidentStatus": 200,
   "alertSummary": [
     {
-      "displayDate": 1759671990139,
-      "id": 5,
-      "flagAsNew": false
+      "displayDate": 1767353580000,
+      "id": 7,
+      "flagAsNew": true
     }
   ]
 }
