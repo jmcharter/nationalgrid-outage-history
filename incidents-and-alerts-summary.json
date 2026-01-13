@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T13:50:00.000+0000",
+  "lastUpdated": "2026-01-13T14:04:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
     {
@@ -8,14 +8,6 @@
         -5.185006
       ],
       "id": "INCD-80102-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        50.38654,
-        -3.92592
-      ],
-      "id": "INCD-81459-l",
       "region": "South West"
     },
     {
@@ -140,6 +132,14 @@
     },
     {
       "loc": [
+        50.22141,
+        -5.076448
+      ],
+      "id": "INCD-81339-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
         50.13172,
         -5.5529
       ],
@@ -152,14 +152,6 @@
         -5.134589
       ],
       "id": "INCD-79600-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        50.25651,
-        -5.015919
-      ],
-      "id": "INCD-80196-l",
       "region": "South West"
     },
     {
@@ -316,14 +308,6 @@
     },
     {
       "loc": [
-        50.20941,
-        -5.197195
-      ],
-      "id": "INCD-81399-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
         50.10865,
         -5.412433
       ],
@@ -364,18 +348,18 @@
     },
     {
       "loc": [
-        50.06941,
-        -5.656018
+        50.38654,
+        -3.92592
       ],
-      "id": "INCD-79575-l",
+      "id": "INCD-81459-l",
       "region": "South West"
     },
     {
       "loc": [
-        50.51974,
-        -4.22656
+        50.06941,
+        -5.656018
       ],
-      "id": "INCD-81412-l",
+      "id": "INCD-79575-l",
       "region": "South West"
     },
     {
@@ -444,10 +428,10 @@
     },
     {
       "loc": [
-        51.46976,
-        -3.205991
+        51.43578,
+        -3.194119
       ],
-      "id": "INCD-26665-e",
+      "id": "INCD-26613-e",
       "region": "South Wales"
     },
     {
@@ -504,14 +488,6 @@
         -2.494792
       ],
       "id": "INCD-55832-m",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        52.61052,
-        -2.48458
-      ],
-      "id": "INCD-55868-m",
       "region": "West Midlands"
     },
     {
@@ -591,7 +567,7 @@
   "incidentStatus": 200,
   "alertSummary": [
     {
-      "displayDate": 1768240800000,
+      "displayDate": 1768312800000,
       "id": 7,
       "flagAsNew": true
     }
