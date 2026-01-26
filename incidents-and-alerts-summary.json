@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T09:07:00.000+0000",
+  "lastUpdated": "2026-01-26T09:29:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
     {
@@ -28,6 +28,14 @@
     },
     {
       "loc": [
+        52.57879,
+        -2.034578
+      ],
+      "id": "INCD-17613-l",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
         53.01,
         -1.282717
       ],
@@ -47,9 +55,9 @@
   "incidentStatus": 200,
   "alertSummary": [
     {
-      "displayDate": 1769162400000,
-      "id": 6,
-      "flagAsNew": true
+      "displayDate": 1759671990139,
+      "id": 5,
+      "flagAsNew": false
     }
   ]
 }
