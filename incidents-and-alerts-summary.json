@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-01-27T06:51:00.000+0000",
+  "lastUpdated": "2026-01-27T07:06:00.000+0000",
   "twitterEnabled": false,
   "incidents": [
+    {
+      "loc": [
+        50.72241,
+        -3.472521
+      ],
+      "id": "INCD-83639-l",
+      "region": "South West"
+    },
     {
       "loc": [
         50.6301,
@@ -12,10 +20,26 @@
     },
     {
       "loc": [
+        50.98334,
+        -4.404792
+      ],
+      "id": "INCD-83645-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
         51.4043,
         -2.555947
       ],
       "id": "INCD-83616-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        51.02665,
+        -3.145471
+      ],
+      "id": "INCD-83635-l",
       "region": "South West"
     },
     {
@@ -44,14 +68,6 @@
     },
     {
       "loc": [
-        50.98334,
-        -4.404792
-      ],
-      "id": "INCD-83645-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
         49.91435,
         -6.316845
       ],
@@ -64,6 +80,14 @@
         -5.436735
       ],
       "id": "INCD-83588-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        50.54308,
+        -3.59776
+      ],
+      "id": "INCD-83628-l",
       "region": "South West"
     },
     {
@@ -116,18 +140,18 @@
     },
     {
       "loc": [
-        51.80249,
-        -4.964097
-      ],
-      "id": "INCD-48806-f",
-      "region": "South Wales"
-    },
-    {
-      "loc": [
         51.8149,
         -2.702137
       ],
       "id": "INCD-48892-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
+        51.80249,
+        -4.964097
+      ],
+      "id": "INCD-48806-f",
       "region": "South Wales"
     },
     {
@@ -164,11 +188,27 @@
     },
     {
       "loc": [
+        51.5867,
+        -2.944089
+      ],
+      "id": "INCD-48954-f",
+      "region": "South Wales"
+    },
+    {
+      "loc": [
         51.80516,
         -2.729745
       ],
       "id": "INCD-48941-f",
       "region": "South Wales"
+    },
+    {
+      "loc": [
+        52.5553,
+        -1.880089
+      ],
+      "id": "INCD-56860-m",
+      "region": "West Midlands"
     },
     {
       "loc": [
@@ -188,14 +228,6 @@
     },
     {
       "loc": [
-        51.73657,
-        -2.536688
-      ],
-      "id": "INCD-56853-m",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
         52.96593,
         -2.07817
       ],
@@ -208,22 +240,6 @@
         -2.146607
       ],
       "id": "INCD-56844-m",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        51.75434,
-        -2.561802
-      ],
-      "id": "INCD-56857-m",
-      "region": "West Midlands"
-    },
-    {
-      "loc": [
-        52.3946,
-        -1.806164
-      ],
-      "id": "INCD-56850-m",
       "region": "West Midlands"
     },
     {
@@ -252,10 +268,26 @@
     },
     {
       "loc": [
-        51.98151,
-        -1.700278
+        52.19788,
+        -2.462827
       ],
-      "id": "INCD-56842-m",
+      "id": "INCD-56846-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        51.75434,
+        -2.561802
+      ],
+      "id": "INCD-56857-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.36963,
+        -2.147622
+      ],
+      "id": "INCD-56861-m",
       "region": "West Midlands"
     },
     {
@@ -268,6 +300,14 @@
     },
     {
       "loc": [
+        51.98151,
+        -1.700278
+      ],
+      "id": "INCD-56842-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
         52.70914,
         -2.750498
       ],
@@ -276,10 +316,10 @@
     },
     {
       "loc": [
-        52.19788,
-        -2.462827
+        52.3946,
+        -1.806164
       ],
-      "id": "INCD-56846-m",
+      "id": "INCD-56850-m",
       "region": "West Midlands"
     },
     {
@@ -297,6 +337,14 @@
       ],
       "id": "INCD-60758-p",
       "region": "West Midlands"
+    },
+    {
+      "loc": [
+        52.82592,
+        -1.070826
+      ],
+      "id": "INCD-115004-h",
+      "region": "East Midlands"
     }
   ],
   "updatePeriod": 30000,
