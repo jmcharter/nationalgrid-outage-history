@@ -1,13 +1,29 @@
 {
-  "lastUpdated": "2026-05-04T21:59:00.000+0100",
+  "lastUpdated": "2026-05-04T22:38:00.000+0100",
   "twitterEnabled": false,
   "incidents": [
+    {
+      "loc": [
+        50.42861,
+        -4.156639
+      ],
+      "id": "INCD-90827-l",
+      "region": "South West"
+    },
     {
       "loc": [
         52.59927,
         -2.147848
       ],
       "id": "INCD-63028-m",
+      "region": "West Midlands"
+    },
+    {
+      "loc": [
+        51.83298,
+        -2.208754
+      ],
+      "id": "INCD-63002-m",
       "region": "West Midlands"
     }
   ],
