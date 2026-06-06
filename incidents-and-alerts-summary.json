@@ -1,29 +1,13 @@
 {
-  "lastUpdated": "2026-06-06T04:28:00.000+0100",
+  "lastUpdated": "2026-06-06T05:55:00.000+0100",
   "twitterEnabled": false,
   "incidents": [
-    {
-      "loc": [
-        50.629,
-        -4.355973
-      ],
-      "id": "INCD-93856-l",
-      "region": "South West"
-    },
     {
       "loc": [
         51.33197,
         -2.95929
       ],
       "id": "INCD-93821-l",
-      "region": "South West"
-    },
-    {
-      "loc": [
-        51.03659,
-        -3.929388
-      ],
-      "id": "INCD-93834-l",
       "region": "South West"
     },
     {
@@ -36,11 +20,27 @@
     },
     {
       "loc": [
-        51.80516,
-        -2.729745
+        50.27469,
+        -3.682337
       ],
-      "id": "INCD-55135-f",
-      "region": "South Wales"
+      "id": "INCD-93876-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        50.58775,
+        -3.62599
+      ],
+      "id": "INCD-93877-l",
+      "region": "South West"
+    },
+    {
+      "loc": [
+        50.629,
+        -4.355973
+      ],
+      "id": "INCD-93856-l",
+      "region": "South West"
     },
     {
       "loc": [
@@ -60,14 +60,6 @@
     },
     {
       "loc": [
-        52.27895,
-        -1.593506
-      ],
-      "id": "INCD-7693-n",
-      "region": "East Midlands"
-    },
-    {
-      "loc": [
         52.5373,
         -1.004627
       ],
@@ -76,10 +68,10 @@
     },
     {
       "loc": [
-        52.68336,
-        -0.16396
+        52.27895,
+        -1.593506
       ],
-      "id": "INCD-128740-h",
+      "id": "INCD-7693-n",
       "region": "East Midlands"
     },
     {
@@ -92,10 +84,26 @@
     },
     {
       "loc": [
+        53.08849,
+        0.019715
+      ],
+      "id": "INCD-128738-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
         52.97956,
         -1.103145
       ],
       "id": "INCD-128735-h",
+      "region": "East Midlands"
+    },
+    {
+      "loc": [
+        52.68336,
+        -0.16396
+      ],
+      "id": "INCD-128740-h",
       "region": "East Midlands"
     }
   ],
